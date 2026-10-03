@@ -1,0 +1,7 @@
+A stack is a linear data type that can only have insertions or deletion from one end as only one end is open.
+
+Pop is deleting the top.
+Push is inserting another one at the top.
+Top is replacing the one at the top.
+isFull means the list is full and we cannot add any more items to it.
+isEmpty means that the list is empty and we cannot delete any more items from it.
