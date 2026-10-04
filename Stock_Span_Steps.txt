@@ -1,0 +1,8 @@
+stock=[10,20,4,100,17,80]
+1. 10 is the start so it is 1
+2. 20 is bigger than 10 so it is 2
+3. 4 is not bigger than 10 or 20 so it is 1
+4. 100 is bigger than 10, 20 and 4 so it is now 4
+5. 17 isn't bigger than 100 is it is 1
+6. 80 is bigger than 17 but not 100 so it is 2
+7. Final answer is [1,2,1,4,1,2]
